@@ -42,7 +42,6 @@ The Library Management System is a Python console-based program that includes ma
 - Run the following command in the terminal :-
 ```bash 
 py Librarian_main.py
-
 ```
 ## USAGE
 
